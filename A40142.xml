@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning persecution in all ages to this day ... G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40142</idno>
+            <idno type="STC">Wing F1769</idno>
+            <idno type="STC">ESTC R15836</idno>
+            <idno type="EEBO-CITATION">13031555</idno>
+            <idno type="OCLC">ocm 13031555</idno>
+            <idno type="VID">96748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 738:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning persecution in all ages to this day ... G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bringhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96748:1"/>
+            <pb facs="tcp:96748:1" rendition="simple:additions"/>
+            <p>CONCERNING PERSECUTION IN ALL AGES To this Day.</p>
+            <p>And he that was Born after the Fleſh, Perſecu<g ref="char:EOLhyphen"/>ted him that was Born of the Spirit; and even ſo it is now: yea, and all that will live Godly in Chriſt Jeſus, ſhall ſuffer Perſecution. Mark, all them that will live Godly; not them that will live Ungodly, out of Chriſt Jeſus, 2 <hi>Tim.</hi> 3.12. For unto you it is given in the Behalf of Chriſt, not only to believe on him, but alſo to ſuffer for his ſake.</p>
+            <p>To the Elect of God; and how that Chriſt hath ſown his Seed upon all Grounds: and now their Grounds will be tryed.</p>
+            <p>The Children of God, their Heavenly Shield, Buckler, Arms, Armour and Defence, which they had from God and Chriſt.</p>
+            <p>
+               <hi>G. FOX.</hi>
+            </p>
+            <p>LONDON, Printed by JOHN BRINGHVRST, at the Sign of the BOOK in <hi>Grace-Church-ſtreet,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96748:2"/>
+            <pb n="3" facs="tcp:96748:2"/>
+            <div type="part">
+               <head>CONCERNING PERSECUTION.</head>
+               <p>THE Spirit it ſelf beareth witneſs with our ſpirits, that we are the Children of God; if Children, then Heirs of God, and Joynt Heirs with Chriſt: and if ſo be that we ſuffer with Chriſt, that we may be alſo glorified together; for I reckon, that the preſent Sufferings of this time, are not worthy to be compar<g ref="char:EOLhyphen"/>ed with the Glory which ſhall be revealed in us. Who ſhall ſeperate us from the Love of Chriſt? ſhall Tribulation, or Diſtreſs, or Perſecution, or Famine, or Nakedneſs, or Pe<g ref="char:EOLhyphen"/>rill, or Sword, as it is written? <hi>For Chriſts ſake we are killed all the day long, we are accounted as Sheep for the Slaughter;</hi> nay in all theſe things we are more than Conquerors, through Chriſt that lov'd us: for I am perſwaded, that neither Death, nor Life, nor Angels, nor Principalities, nor Powers, nor Things preſent, nor Things to come, nor Height, nor Depth, nor any other Creature, ſhall be able to ſeperate us from the love of God, which is in Chriſt Jeſus our Lord. Here is and ought to be the Noble Reſolution of the true and faithful Chriſtians in Chriſt Jeſus; and as the Apoſtle ſaid to the <hi>Corinthians, We are made a ſpectacle unto the world, and Angels, and men, &amp;c. And we are counted fools for Chriſts ſake, and we are buffetted, and have no certain dwelling place; and being reviled, we bleſs; and being perſecuted, we ſuffer it; being defamed, we Intreat; we are made as the filth of the world, and as the off-ſcouring of all
+<pb n="4" facs="tcp:96748:3"/>things; but the Lord comforts us in all our Tribulations; for as the Sufferings of Chriſt abounds in us, ſo our Conſolation alſo a<g ref="char:EOLhyphen"/>bounds with Chriſt.</hi>
+               </p>
+               <p>And ſo it is no new thing for the Chriſtians now to be troubled on every ſide, yet not diſtreſſed; perplexed, but not in diſpair; for our light afflictions which is but for a moment, worketh for us a far more exceeding and eternal weight of glory, &amp;c. and though our outward man periſh, yet our inward man is renewed day by day; bleſſed be the Lord forever.</p>
+               <p>And as the Apoſtle ſaith, <hi>I take pleaſure in Infirmities, in Reproaches, in Neceſſities, in Perſecutions, in Diſtreſſes, for Chriſts ſake.</hi> And here the Apoſtle triumphed over all, which ſhould be every true Chriſtians practice.</p>
+               <p>And you may read how <hi>Paul</hi> ſaid, <hi>how that beyond meaſure he perſecuted the Church of God, and waſted it;</hi> but when he was converted and became a member of Chriſts Church, then he preached that faith which he ſought to deſtroy; ſo you may ſee, as it is written, <hi>He that's born after the fleſh, perſecute him that is born after the ſpirit,</hi> even ſo it is now; therefore what ever Chriſtendom doth profeſs and talk, the Birth muſt be minded, of what Birth you are; if it be the birth of the fleſh, he will perſecute him that is born after the ſpirit, the true be<g ref="char:EOLhyphen"/>lievers in Chriſt; for unto you it is given in the behalf of Chriſt, not only to believe on him, but alſo to ſuffer for his ſake: ſo this gift is not only to believe, but alſo to ſuffer for his ſake, and ſo count all things but loſs for the excellency of the Knowledge of the Lord Jeſus, <hi>for whom I ſuffer the Loſs of all things, and count them but dung that I may winn Chriſt, and be found in him, that I may know him, and the power of his Reſur<g ref="char:EOLhyphen"/>rection, and the Fellowſhip of his Sufferings, being made conforma<g ref="char:EOLhyphen"/>ble unto his d ath.</hi> To this all ſhould mind to be conformable, and know the fellowſhip in his ſufferings.</p>
+               <p>And the Apoſtle encourages the <hi>Theſſalonians,</hi> who ſaith,
+<pb n="5" facs="tcp:96748:3"/>
+                  <hi>that we our ſelves glory in you, &amp;c. for your patience, and faith in all your perſecutions, and tribulations, that ye endure, which is a ma<g ref="char:EOLhyphen"/>nifeſt token of the righteous Judgments of God, that ye may be wor<g ref="char:EOLhyphen"/>thy of the Kingdom of God, for which ye alſo ſuffer, ſeeing it is righ<g ref="char:EOLhyphen"/>teous with God to recompence to them that trouble you; and ſo you that are troubled, reſt with us</hi> (ſaith the Apoſtle) <hi>therefore bre<g ref="char:EOLhyphen"/>thren we are comforted over you in all your afflictions, and diſtreſſes for your faith; ſtand faſt in the Lord, that no man ſhould be moved by theſe afflictions, for your ſelves know that we are appointed there<g ref="char:EOLhyphen"/>unto</hi> (ſaith the Apoſtle,) <hi>for we told you before that we ſhould ſuffer tribulations, even as it is come to paſs.</hi> For Chriſt hath ſuffered; and being tempted, he is able to Succour them that are tempted in all their ſufferings, and though Chriſt he where a Son, yet learned he Obedience by the things which he ſuffered, and being made perfect he be<g ref="char:EOLhyphen"/>came the Author of eternal Salvation, to all them which obey him; and ſo if we ſuffer with him, we ſhall reign with him: and Remember them that are in bonds, as bound with them; and them which ſuffer Adverſity, as being your ſelves alſo in the body, in bonds. Here is a ſenſible feeling of one another that are born of the ſpirit, and a Fellowſhip in ſuffe<g ref="char:EOLhyphen"/>rings, who are perſecuted by that ſpirit born of the Fleſh.</p>
+               <p>And the Apoſtle ſaith to the <hi>Hebrews, call to remembrance the former days, in which after ye were Illuminated, ye indured a great Fight of Afflictions, partly while you were Gazing-ſtocks, both by Reproaches &amp; Afflictions, and partly while you became Com<g ref="char:EOLhyphen"/>panions of them that were ſo uſed; for ye had Compaſſion of me in my bonds, and took joyfully the ſpoiling of your Goods, knowing in your ſelves that you have in Heaven a better and induring Subſtance: caſt not away your Confidence, which hath great Recompence of Re<g ref="char:EOLhyphen"/>ward for ye have need of Patience, that after you have done the will
+<pb n="6" facs="tcp:96748:4"/>of God, you may receive the Promiſe; but if any draw back</hi> (to wit, in the time of Sufferings) <hi>the Lords ſoul hath no pleaſure in them.</hi>
+               </p>
+               <p>
+                  <hi>Moſes</hi> by Faith chuſing rather to ſuffer afflictions with the people of God, then to injoy the Pleaſures of ſin for a ſeaſon, eſteeming the reproaches of Chriſt greater riches than the treaſures in <hi>Aegypt,</hi> for he had reſpect unto the recompence of reward, and by faith forſook <hi>Aegypt,</hi> not fearing the wrath of the King, for he indured as ſeeing him who is inviſible: and ye may ſee what cruel tryals of mockings, ſcourges, bonds, and Impriſonments, and afflictions, and torments, the ſaints went through, in the 11<hi rend="sup">th</hi> of <hi>Hebrews.</hi>
+               </p>
+               <p>And ſaith <hi>Peter, if when you do well, and ſuffer for it, ye take it patiently; this is acceptable with God, for even hereunto were ye called: if a man for Conſcience ſake towards God ſuffer grief; this is thank-worthy, becauſe Chriſt alſo ſuffered for us, leaving us an Example, that we ſhould follow his ſteps, who when he was reviled, he reviled not again; when he ſuffered, he threatned not, but committed himſelf to God who judges righteouſly; for Chriſt hath once ſuffered for ſin, the Juſt for the Unjuſt, that he might bring us to God: for<g ref="char:EOLhyphen"/>aſmuch then as Chriſt hath ſuffered for us in the Fleſh, arm your ſelves likewiſe with the ſame mind; for he that hath ſuffered in the Fleſh hath ceaſed from ſin; but the God of all grace who hath called us into his eternal glory,</hi> (ſaith the Apoſtle) <hi>by Chriſt Jeſus, after that you have ſuffered a while, make you perfect, ſtabliſh, ſtrengthen and ſettle you; caſt all your care upon God, for he careth for you, and Rejoice, inaſmuch as you are made pertakers of Chriſts Suffer<g ref="char:EOLhyphen"/>ings, &amp;c. and think it not ſtrange concerning the fiery tryalls, which are to try you, as though ſome ſtrange thing had happened unto you; for if ye be Reproacht and ſuffer for the name of Chriſt, happly are ye, for the Spirit of Glory and of God reſts upon you: on their part, he is evill Spoken of; but on your part, he is Glorified: if any man Suffer as a Chriſtian, let him not be aſhamed, but let him glory<g ref="char:EOLhyphen"/>fie
+<pb n="7" facs="tcp:96748:4"/>God on this behalf, wherefore let them that Suffer according to the Will of God, commit the keeping of their Souls to him in well-doing, as to a Faithful Creator; and if ye ſuffer for Righ<g ref="char:EOLhyphen"/>teouſneſs ſake, happy are ye; and be not affraid of their Terrour, neither be troubled, having a good conſcience, that whereas they ſpeak evill of you, as evill doers, they may be aſhamed that falſly accuſe your good Converſation: for it is better if the will of God ſo be, that ye ſuffer for Well doing, than for Evil-doing; for we both labour and ſuffer Reproach becauſe we truſt in the living God, who is the Saviour of all men, eſpecially of them that believe.</hi>
+               </p>
+               <p>And the Apoſtle ſaid, He <hi>was appointed a Teacher of the</hi> Gentiles, <hi>for the which Cauſe he alſo ſuffered, &amp;c.</hi> but he was not aſhamed; for he knew in whom he believed; and ſaid, Though he ſuffered as an Evil-doer, even unto Bonds; but the Word of God is not bound; nay the eternal word of God that lives, and abides and endures forever, by which all things were made and created, this word of God cannot be bound by that which was created by it, and doth not live and endure forever; therefore ſaith the Apoſtle, <hi>I endure all things for the Elects ſake, that they may alſo obtain the ſal<g ref="char:EOLhyphen"/>vation which is in Chriſt Ieſus, with eternall Glory; it is a faith<g ref="char:EOLhyphen"/>ful ſaying, if we be dead with Chriſt, we ſhall alſo live with him; and if we ſuffer with Chriſt, we ſhall alſo reign with him; and if we deny him, he alſo will deny us, &amp;c.</hi>
+               </p>
+               <p>And you may ſee what Perſecutions and Afflictions came upon the Apoſtle at <hi>Antioch,</hi> and at <hi>Iconium,</hi> and at <hi>Liſtra,</hi> what Perſecutions he endured; but out of them all the Lord delivered him: yea and all that will Live godly in Chriſt Ieſus, ſhall ſuffer Perſecution (Mark <hi>ſhall</hi>) if they live Godly; but evil men and Seducers ſhall wax worſe and worſe, decei<g ref="char:EOLhyphen"/>ving and being deceived, therefore he exhorts <hi>Timothy,</hi> to <hi>watch in all things, and endure Afflictions, &amp;c.</hi> for he was ready to be offered up, for the time of his departure was at hand, and he had fought the good fight, and finiſht his courſe,
+<pb n="8" facs="tcp:96748:5"/>and kept the faith, and there was a Crown of Righteouſneſs laid up for him, which the Lord the Righteous Judge will give him at the Laſt Day, and not to him only, but unto all them alſo that Love his appearing, for God hath not given to us a Spirit of Fear, but of Power, of Love; and of a ſound mind; therefore the Apoſtle ſaith unto <hi>Timothy, Be not thou therefore aſhamed of our Lord, nor of me his priſoner, but be thou a pertaker of the affliction for the Goſpell, according to the Power of God, who hath ſaved us, and called us by a holy calling, &amp;c.</hi> And <hi>Iohn</hi> ſaith, <hi>I know thy works, Tribulations, and po<g ref="char:EOLhyphen"/>verty; but thou art rich; fear none of thoſe things, which thou ſhalt ſuffer: behold the Devill ſhall caſt ſome of you into priſon, that you may be tryed, and ye ſhall have Tribulation Ten dayes; but be thou faithfull to death, and I will give thee a Crown of life:</hi> this was ſpoken to the Church in <hi>Smyrna.</hi> And you may ſee in the 11th Chap. how the witneſſes of Chriſt ſuffered, and when they had taken away their Lives, and the dead Bodies lay in the Streets of the great City, which is ſpiritually called <hi>Sodom</hi> and <hi>Aegypt;</hi> ſo not naturally called ſo, where Chriſt our Lord &amp; Saviour was crucified; that was through the great Letter Profeſſors, the <hi>Jews,</hi> before the Witneſs was ſlain; but after three dayes and a half, the Spirit of Life from God entred into the Witneſſes, and they ſtood upon their Feet, which frightned their Enemies; and the Witneſſes were called up to heaven, and the ſame hour there was a great Earthquake, and the tenth part of the City fell, and was ſhaken down: ſo here was the reward upon the City and the Perſecuting Citizens.</p>
+               <p>And again, you may ſee how the Dragon perſecuted the Woman, the True Church, which brought forth the Man Child, after he was caſt out of Heaven by <hi>Michael</hi> and his Angels; but the Woman (or True Church) was nouriſh<g ref="char:EOLhyphen"/>ed for a Time, and Times, and Half a Time, in the Wil<g ref="char:EOLhyphen"/>derneſs; and the Earth helped the Woman; and the Earth
+<pb n="9" facs="tcp:96748:5"/>opened her Mouth, and ſwallowed up the Flood, which the Dragon caſt out of his Mouth after her; and the Dragon was wroth with the Woman, and went to make war with the Remnant of her Seed, which kept the Commands of God, and have the Teſtimony of Jeſus.</p>
+               <p>Now you may ſee what the Devil, the Dragon, and all his Followers perſecute, and what his Wrath is againſt, the true Church, the Woman, that brought forth the Man Child, and they that kept the Commands of God, and have the Teſtimony of Jeſus Chriſt: and then the Dragon he gave his wicked perſecuting Power to the Beaſt, and he alſo was to continue Forty Two Months; and he got up in ſuch a Rage in the Devil's power, that he opened his Mouth in Blaſphemy againſt God, to blaſpheme his Name, and his Tabernacle, and [mark] them that dwell in Heaven; not them that dwell upon the Earth, for all that dwell in the Earth worſhip him, but thoſe whoſe Names are written in the Book of Life of the Lamb, ſlain from the Foundation of the World, to wit, they do not worſhip him. He that hath an Ear to hear, let him hear.</p>
+               <p>But what became of the great City, and the whore, or the falſe Church, and the Beaſt, and the Dragon, with all his falſe Prophets? are not they at the end burned, and caſt into the Lake of Fire, and the lamb and the ſaints have the victory?</p>
+               <p>And <hi>David</hi> declareth, how he was Perſecuted, and ſaid, <hi>Let them be confounded, and put to ſhame that ſeek after my Soul; let them be as Chaff before the Wind, &amp;c. Let their Way be Darkneſs, and Slippery, &amp;c. Falſe Witneſſes riſe up, and lay to my Charge things that I Knew not; they rewarded him Evill for good, to the ſpoiling of his Soul, and his Adverſaries gathered themſelves together againſt him, with hypocriticall Mockery in feaſts; they gnaſh upon me with their Teeth, yea they open their
+<pb n="10" facs="tcp:96748:6"/>mouthes wide againſt me, and Say, Aha, Aha, &amp;c. but God will ſave his afflicted people, and bring down the high looks of of them that afflict them.</hi>
+               </p>
+               <p>And <hi>David</hi> mourned by reaſon of Affliction, and ſaid, <hi>I am afflicted, and ready to dye from my youth upward, &amp;c.</hi> and ſaid, <hi>Lord remember</hi> David <hi>in all his Afflictions;</hi> and he ſaid, <hi>The wicked in his pride perſecuted the poor; My times are in thy hand; O Lord deliver me from the hand of my Enemies, and them that perſecute me;</hi> And alſo <hi>David</hi> cryed to the Lord, and ſaid, <hi>How many are the days of thy Servant? wilt thou execute Judgment on them that perſecute me? They perſecute me wrongfully; help thou me; the proud have digged a pit for me, which are not after thy Law;</hi> (and they that do ſo now are not after thy Goſpel) And <hi>David</hi> ſaid; <hi>O Lord my God, in thee I put my truſt; ſave me and deliver me from all them that perſecute me; for the Lord heareth the poor, and deſpiſeth not the priſoners; let the Heaven and Earth praiſe him, the Sea, and every thing that moveth therein.</hi> And <hi>David</hi> ſaith, <hi>they that ſate in the Gate ſpake againſt me, and I was the Song of the Drunkards:</hi> and do not the Drunkards make Songs of God's people now?</p>
+               <p>And you may ſee the ſufferings and afflictions of <hi>Job</hi> by the <hi>Caldeans:</hi> and <hi>Sabeans,</hi> and the Tryals and Temptations of his Wife, and his pretended Friends; and alſo he ſaith in his afflictions, <hi>they that are younger than I, have me in deriſion, whoſe Fathers I would have diſdained to have ſet with the dogs of my flocks, the Children of Fools, Children of baſe men, now am I their Song, yea I am their by word, they abhor me, &amp;c. and ſpare not to ſpit in my face; upon my right hand riſes the youth, they put away my feet, they riſe up againſt me, &amp;c. they marr my path, ſet forward my Calamity, &amp;c.</hi> But you may ſee how the Lord delivered <hi>Job</hi> out of all his afflictions and miſeries; for it was alwayes the wicked that abuſed the righteous, in their ſufferings, and afflictions.</p>
+               <pb n="11" facs="tcp:96748:6"/>
+               <p>And <hi>Jeremiah</hi> ſaid, <hi>O Lord my ſtrength, and my fortreſs, and my refuge in the day of affliction!</hi> The Lord is the fortreſs, and refuge, and ſtrength of all his people in the day of their afflictions, and perſecutions; and did not the Lord con<g ref="char:EOLhyphen"/>found all <hi>Jeremiah</hi>'s perſecutors? did not <hi>Jeremiah</hi> tell his perſecutors, <hi>the Lord is with me as a terrible one, therefore my perſecutors ſhall ſtumble; and they ſhall not prevail they ſhall be greatly aſhamed, for they ſhall not proſper; and their ever<g ref="char:EOLhyphen"/>laſting confuſion ſhall never be forgotten?</hi> And did not this come upon the perſecutors that put <hi>Jeremiah</hi> in Priſon, and Dun<g ref="char:EOLhyphen"/>geon? was not <hi>Jeremiah</hi> delivered, and his perſecutors went into Captivity, and he ſet at Liberty from his Priſon? <hi>Jer.</hi> 52. you may ſee what became of his perſecutors, whether they did not go into Captivity and into Priſon.</p>
+               <p>And <hi>Iſaiah,</hi> ſpeaking by Prophecy of <hi>Chriſt,</hi> how he was oppreſſed and afflicted; yet he opened not his Mouth, and was not he brought as a Lamb to <hi>Pilate's,</hi> and to the <hi>Jews</hi> Slaughter, and as a Sheep before the Shearers; <hi>and he was taken from Priſon, and from Judgment;</hi> who ſhall declare the Generation of the ſuffering-Lamb, ſlain from the founda<g ref="char:EOLhyphen"/>tion of the World; for the Tranſgreſſion of his people was he ſtricken: the Smiters and the Afflictors, and the Oppo<g ref="char:EOLhyphen"/>ſers, and Impriſoners, Deſpiſers, and Rejectors, cannot de<g ref="char:EOLhyphen"/>clare the Generation of Chriſt the Lamb of God. And <hi>Iſaiah</hi> ſaith, <hi>If thou looſe the Bonds of wickedneſs, to undo the heavy burthen, and let the oppreſſed go free, &amp;c. if thou draw out thy Soul to the hungry, and ſatisfie the afflicted Soul, then ſhall thy Light riſe in obſcurity.</hi> But what will become of ſuch that do op<g ref="char:EOLhyphen"/>preſs and lay their burthens, and afflict the Juſt? Their Light will be darkneſs. And the Lord ſaith (ſpeaking of the <hi>Children of Iſrael) In all their afflictions, he was afflicted; and the Angel of his preſence ſaved them; in his Love, and in his pitty he redeemed them; and he bore them, and carryed them all the days of old;</hi> and God ſaid, <hi>I ſent my Angel before thee to keep thee in the way, &amp;c.</hi> And when the <hi>Children of Iſrael</hi> cryed
+<pb n="12" facs="tcp:96748:7"/>unto the Lord, he heard their voice, and delivered them from their perſecutors, and afflictions. And the Lord ſaid, <hi>I have ſurely ſeen the afflictions of my people, which are in</hi> Aegypt, <hi>and have heard their Cry, by reaſon of their Task-maſters; for I know their ſorrows:</hi> So here you may ſee the Lord doth hear their Cryes, and is ſenſible of the afflictions and Sorrows of his People, therefore commandeth his people, <hi>Not to afflict the widow, nor the Fatherleſs, nor the ſtranger; for if they did, they would cry unto the Lord, and he would make their Wives Wi<g ref="char:EOLhyphen"/>dows, and their Children Fatherleſs.</hi>
+               </p>
+               <p>And <hi>Amos</hi> Cryed, <hi>Wo unto ſuch that Chant to the ſound of the Violl, and Invent to themſelves Inſtruments of Muſick like un<g ref="char:EOLhyphen"/>to</hi> David, <hi>that Drink Wine in Bowles, and anoint themſelves with Chief Oyntments; but they are not grieved for the Afflicti<g ref="char:EOLhyphen"/>ons of</hi> Joſeph; <hi>for I know your manifold Tranſgreſſions, and your mighty Sins, they afflict the Juſt;</hi> and that is it that afflicts the Juſt in our Age, and are not ſenſible of the afflicti<g ref="char:EOLhyphen"/>ons of <hi>Joſeph,</hi> nor of the Afflictions of the righteous in our age. And Chriſt ſaith, <hi>And ſhall not God avenge his own Elect, with Cryes day and night unto him?</hi> And did not Chriſt tell the <hi>Jews, how they had ſlain and perſecuted the Prophets?</hi> And he ſaid, how that <hi>they ſhould Perſecute his Apoſtles and Prophets?</hi> And what are become of thoſe perſecuting <hi>Jews?</hi> And Chriſt ſaid, to his Diſciples, <hi>They ſhall lay hands on you, and perſecute you, delivering you up to the Councils, &amp; Scourge you in the Synagogues, and caſt you into Priſon, being brought before Kings &amp; Rulers for my name ſake; and it ſhall turn to you for a Teſtimony; ſettle it therefore in your hearts, not to meditate before what ye ſhall anſwer, for I will give you a mouth and Wiſdom</hi> (ſaith Chriſt) <hi>which all your Adverſaries ſhall not be able to gain-ſay, nor reſiſt.</hi> Therefore it is good for all to look unto <hi>Jeſus,</hi> both for Wiſ<g ref="char:EOLhyphen"/>dom and for ſtrength in all their Tryalls, and Sufferings, and Perſecutions; for without him they can do nothing.</p>
+               <pb n="13" facs="tcp:96748:7"/>
+               <p>And Chriſt ſaith, <hi>Bleſſed are they which are perſecuted for righteouſneſs ſake, for their's is the Kingdom of Heaven, Bleſſed are ye when men ſhall revile you and perſecute you, and ſay all man<g ref="char:EOLhyphen"/>ner of evil againſt you falſly for my ſake, rejoyce and be ex<g ref="char:EOLhyphen"/>ceeding glad; for great is your reward in Heaven; for ſo perſecu<g ref="char:EOLhyphen"/>ted they the Prophets which were before you; But I ſay unto you, love your Enemies; Bleſs them that Curſe you; do good to them that hate you; and pray for them that diſpightfully uſe you, and perſecute you.</hi> And Chriſt ſaith to his Diſciples, <hi>You ſhall be hated of all men for my Name ſake; But he that endures to the End ſhall be ſaved; but when they perſecute you in this City fly you to another; for verily I ſay unto you, ye ſhall not have gone over all the Cities of</hi> Iſrael <hi>till the Son of Man come; but when they deliver you up, Take no thought, how or what you ſhall ſpeak; for it ſhall be given you in that ſame hour, what you ſhall ſpeak; for it is not you that ſpeak, but the Spirit of the Father that ſpeak<g ref="char:EOLhyphen"/>eth in you:</hi> And further, Chriſt ſaith to the <hi>Jews, Behold I ſend unto you Prophets and wiſe-men, and ſome of them ye ſhall kill, and Crucifie; and ſome of them ye ſhall ſcourge in your Synagogues, and perſecute from City to City, that upon you may come all the righteous blood ſhed upon the Earth, &amp;c.</hi>
+               </p>
+               <p>And alſo, you may ſee how <hi>John Baptiſt</hi> was caſt in Pri<g ref="char:EOLhyphen"/>ſon, for reproving of <hi>Herod;</hi> and his Wife's Daughter plea<g ref="char:EOLhyphen"/>ſed <hi>Herod</hi> with her DANCING, and <hi>Herod</hi> promiſed with an OATH, to give her <hi>whatſoever ſhe would ask,</hi> and her Mother adviſed her to ask JOHN BAPTST'S HEAD, and ſhe had it given her; now this was the fruits of Tranſ<g ref="char:EOLhyphen"/>greſſing the Law of God, and of her DANCING, and OATHS and SWEARING, Contrary to the Command of Chriſt, who ſaith, SWEAR NOT AT ALL.</p>
+               <p>And alſo, Chriſt ſaith, <hi>I was hungry, and ye gav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me no Meat; I was thirſty, and ye gave me no Drink; I was naked, and ye Cloathed me not; in Priſon, and ye came not unto me; I was a ſtranger, and ye took me not in; and ſick, and ye viſited me
+<pb n="14" facs="tcp:96748:8"/>not, &amp;c.</hi> And Chriſt ſaith, <hi>in as much as ye did it not to one of the leaſt of theſe, you did it not unto me: And ſuch ſhall go in<g ref="char:EOLhyphen"/>to everlaſting puniſhment;</hi> and the righteous into <hi>life eternal.</hi>
+               </p>
+               <p>Is it not the Practice of the Profeſſors now adays, in<g ref="char:EOLhyphen"/>ſtead of <hi>Cloathing the naked,</hi> to <hi>take away their Cloaths?</hi> And <hi>take away their Meat and Drink inſtead of giving them Meat &amp; Drink?</hi> and Caſt into Priſon, inſtead of Viſiting them in Priſon? yea ſuch as pretend to be <hi>Preachers of the Goſpel,</hi> though they do not hear them; but ſuch are Tranſgreſſors of his Command, who ſaith, <hi>Freely you have Received, Freely give.</hi>
+               </p>
+               <p>And <hi>Ahab</hi> the King ſaid, <hi>Take</hi> Micah <hi>the Prophet, and put this fellow in the Priſon, and feed him with Bread of Afflicti<g ref="char:EOLhyphen"/>ons until I come in Peace:</hi> And <hi>Micah</hi> ſaid unto <hi>Ahab, If thou return at all in Peace the Lord hath not ſpoken by me;</hi> ſo <hi>Ahab</hi> was ſlain according to <hi>Micah's</hi> Prophecy.</p>
+               <p>And did not the Prophet <hi>Hanana</hi> reprove <hi>Aſa</hi> the King? And the King was in a great Rage, and put the Prophet in Priſon, becauſe he reproved the King who, relied on the King of <hi>Aſſyria,</hi> and not on the Lord God?</p>
+               <p>And you may ſee in the <hi>Acts,</hi> how the Prieſts &amp; the Rulers caſt the Apoſtles into Priſon, and Charged, them <hi>That they ſhould Preach no more in the name of Jeſus.</hi> And <hi>Stephen</hi> ſaid to the Chief Prieſt &amp; the Rulers, <hi>Which of the Prophets have not your forefathers perſecuted, and ſlain them which ſhewed before the coming of the Juſt One, of whom ye have been now the Be<g ref="char:EOLhyphen"/>trayers and Murderers, who received the Law, &amp;c. and have not kept it? When they heard theſe things, they were cut to the Hear,</hi> and gnaſhed on him with their Teeth, and ſtoned <hi>Steven</hi> to death, Calling upon God, ſaying, <hi>Lord Jeſus re<g ref="char:EOLhyphen"/>ceive my Spirit.</hi>
+               </p>
+               <p>And <hi>Paul</hi> ſaid, <hi>I have perſecuted this way</hi> (which was the way of True <hi>Chriſtianity) unto death, binding and delivering into Priſon both men and women; the high Prieſt both bear me witneſs, and all the ſtate of the Elders from whom alſo I recei<g ref="char:EOLhyphen"/>ved
+<pb n="15" facs="tcp:96748:8"/>Letters, and went unto</hi> Damaſcus <hi>to bring them which were there, bound unto</hi> Jeruſalem, <hi>for to be puniſhed:</hi> This was <hi>Paul's</hi> Confeſſion when he was converted, and perſecuted for Chriſt's ſake by old perſecuting profeſſing <hi>Jews.</hi>
+               </p>
+               <p>And <hi>Herod</hi> perſecuted the <hi>Chriſtians,</hi> and killed <hi>James,</hi> and impriſoned <hi>Peter,</hi> whom an Angel delivered through the Prayers of the Saints, and the Angel of God ſtruck <hi>Herod</hi> that he dyed miſerably.</p>
+               <p>And you may ſee in the 16th of <hi>Acts,</hi> how <hi>Paul</hi> and <hi>Silas</hi> were caſt into Priſon, and how the Lord wrought a wonder<g ref="char:EOLhyphen"/>full Deliverance to his Glory to them; and how often you ſee the <hi>Jews</hi> ſought the life of <hi>Paul,</hi> after he was converted; and the <hi>Heathen Romans</hi> had more tenderneſs, who let him have liberty, &amp; to dwell two full years in his own hir'd houſe, and received all that came in unto him, Preaching the King<g ref="char:EOLhyphen"/>dom of God, and teaching thoſe things which concerned the Lord Jeſus; and no man forbad him.</p>
+               <p>And the <hi>Jews</hi> perſecuted Jeſus, becauſe he had done Good on the <hi>Saboth day,</hi> who was Lord of the <hi>Saboth:</hi> And Chriſt ſaid to his Diſciples, <hi>Remember the word that I ſaid unto you</hi> (To wit, his Diſciples) <hi>the Servant is not greater than his Lord; if they have perſecuted Me, they will alſo perſecute you, &amp;c. All theſe things will they do unto you for my name ſake.</hi> And this Perſecution and Impriſonment the Apoſtles and the Saints came to witneſs after Chriſt was riſen; and there<g ref="char:EOLhyphen"/>fore you may ſee in his Epiſtles he Salutes his Fellow-Priſoners, and the Apoſtle ſaith, <hi>he that is Born of the Fleſh perſecutes him that is Born of the Spirit;</hi> even ſo it is now, each Birth manifeſts both their works and Fruits.</p>
+               <p>And the Apoſtle ſaith to the <hi>Corinthians, give no offence in any ihing, that the Miniſtry be not blamed, but in all things approving your ſelves as the Miniſters of God, in much Pati<g ref="char:EOLhyphen"/>ence, in Afflictions, in Neceſſities, in Diſtreſs, in Stripes, in Impriſonments, in Tumuls, in Labours, in Wantings, in Faſt<g ref="char:EOLhyphen"/>ings,
+<pb n="16" facs="tcp:96748:9"/>by Pureneſs, by Knowledge, by Long-ſuffering, by Kindneſs, by the holy Ghoſt, by love unfeigned, by the Word of Truth, by the Power of God, by the Armour of Righteouſneſs, on the Right hand and on the Left, by Honour and Diſhonour, by Evil Report, and Good Report, as deceivers, and yet true; as unknown, and yet well known; as dying, and behold we Live; as Chaſtized, and not killed; as Sorrowfull, yet alwayes re<g ref="char:EOLhyphen"/>joycing; as poor, yet making many rich; as having nothing, yet poſſeſſing all things.</hi> Theſe are good Examples for the true <hi>Chriſtians</hi> to follow.</p>
+               <p>And do not you read what became of <hi>Iezabel,</hi> that per<g ref="char:EOLhyphen"/>ſecutor of the Lords Prophets? And what is become of all the perſecutors of Gods people ſince the beginning? that Birth Born after the Fleſh, will it not have the ſame por<g ref="char:EOLhyphen"/>tion to the end of the World? is it not recorded to be the Birth of the Fleſh; and is not to Inherit with the Heir of the Promiſe; but is ſhut out from that Inheritance?</p>
+               <closer>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>the 8th Month, 1682.</date>
+                  </dateline>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:96748:9"/>
+               <head>To all the ELECT of GOD, Choſen and Faithful, who have known the Work of the Lord, and his Dealings, and his Eternal Hand, his Spirit and Power, in preſerving of you to this day, and in this Glorious Goſpel Day of Chriſt Jeſus, who are built upon him, the Holy Rock and Foundation of God, that ſtandeth ſure, and are fed with the Heavenly Bread, &amp; feel the Springs of Living Water, and enjoy the Preſence of the Lord, who daily gives the Encreaſe.</head>
+               <p>
+                  <hi>AND now Friends, with the Eternal Power and Heavenly Light of Chriſt, with it you have ſeen, and do ſee, and will ſee that which Chriſt hath ſpoken in the</hi> 23d <hi>of</hi> Matthew, <hi>and</hi> 8th <hi>of</hi> Luke, <hi>which he taught to the great Multitude in Parables, when he ſate in a Ship;</hi> Behold <hi>(ſaith Chriſt)</hi> a Sower went out to ſow his Seed, and as he ſowed, ſome fell by the High Wayes ſide, and it was trodden down, and the Fowls of the Air devoured it; and ſome fell upon the Rocks or Stony Places, where they had not much Earth; and as ſoon as it was ſprung up, it withered away. <hi>So he that receiveth the Seed into rocky or ſtony Places, the ſame is he that receiveth the Word with Joy, yet hath he not Root in himſelf, but dureth for
+<pb n="18" facs="tcp:96748:10"/>a while, or for a while believeth, and in Temptations fal<g ref="char:EOLhyphen"/>leth away; for when Tribulations or Perſecutions ariſe becauſe of the Word, by and by he is Offended; and upon too many ſuch have we ſeen this Parable fulfilled in Times of Perſecutions, and Tribulations, and Sufferings; the Perſecuting Sun, when it is up, they are ſcorch't, and withered away, and ſo come to nothing.</hi> And ſome fell among Thorns, and the Thorns ſprung up and choaked it: <hi>And they alſo that received Seed among the Thorns, are they that hear the Word, and when they have heard, go forth, and are choak't with the Cares of this World, and Deceitfulneſs of Riches, and Pleaſures of this Life, and become Unfruitful, and bring no Fruit to perfection: and this is ſeen to be the Condition of too many. But the other</hi> fell into Good Ground, and brought forth Fruit, ſome Thirty, ſome Sixty, and ſome an Hundred fold: <hi>So they that received the Seed into the Good Ground, are they which in an honeſt and a good Heart have heard the Word, and underſtand it, and keep it, and bring forth fruit with patience, ſome an hundred fould, ſome ſixty, ſome thirty, as was ſaid before; theſe are the honeſt and good hearts, upon whom Chriſt the Son of Righteouſneſs ſhines, that nouriſhes his good ſeed, who brings forth fruit unto perfection, who lives over the Deceitfull Riches and Cares of the World, and the Pleaſures of this Life, that paſs away, who are not offended nor moved at Tribulations and Perſecutions, but
+<pb n="19" facs="tcp:96748:10"/>patiently do endure them; ſuch do bring forth Fruit unto Perfection, yea an</hi> 100.60. <hi>and</hi> 30. <hi>fould, in Chriſt Je<g ref="char:EOLhyphen"/>ſus, who bruſes the Serpents head, who makes men and wo<g ref="char:EOLhyphen"/>mens hearts like the high way, thorny rocky and ſtony ground; for men and women, whoſe hearts are like unto the High Ways, ſtony, rockey and thorny ground, the ſeed hath fallen into theſe grounds as before, and theſe grounds all can talk of the Seed, and of the Word, but bring forth no fruit unto perfection. And therefore let all conſider what ground you are, and Fruit you bring forth; and when you hear the Word of the Kingdom, that ye under<g ref="char:EOLhyphen"/>ſtand it, which none can without the Light and Spirit of Chriſt (and walk in it) but he that ſhall endure to the end in the light, in the grace, truth, and ſpirit, and in Chriſt, from whom you do receive theſe, ſhall be ſaved.</hi>
+               </p>
+               <p>
+                  <hi>For the Apoſtle ſaith,</hi> the Juſt ſhall live by faith; <hi>and this is not by any faith which men make, but by the faith which Jeſus Chriſt is both the Author and Finiſher of in your Hearts and Conſciences? and in this faith ye have acceſs to God, and do pleaſe him; but</hi> if any man draw back <hi>(to wit, by not living by this Faith, doth not the Lord ſay)</hi> my ſoul ſhall have no pleaſure in him? <hi>but we are not of them who draw back unto per<g ref="char:EOLhyphen"/>dition, that is a ſad drawing-back; but of them that be<g ref="char:EOLhyphen"/>lieve to the ſaving of our ſouls.</hi>
+               </p>
+               <closer>
+                  <dateline>From <hi>Kingſton upon Thames,</hi> 
+                     <date>the 2d of the 9th Moneth, 1682.</date>
+                  </dateline>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96748:11"/>
+            <head>BOOKS Printed and Sold by <hi>John Bringhurſt</hi> at the Sign of the <hi>Book</hi> in <hi>Grace-Church-ſtreet,</hi> near <hi>Cornhil.</hi>
+            </head>
+            <list>
+               <item>1. A General Epiſtle given forth in Obedience to the God of Peace, for the Preſervation and Encreaſe of <hi>Charity</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> amongſt the Profeſſors of Chriſt Jeſus, and the Teachings of his Divine Light Within. By <hi>William Gibſon.</hi> Price 1 s.</item>
+               <item>2. The Life of Chriſt magnified in his Miniſter: <hi>Being Seventeen Friends Teſtimonies concerning</hi> Giles Barnardiſton. Price 3 d.</item>
+               <item>3. A Way to Prevent the Indignation and Judgments of the Lord from com<g ref="char:EOLhyphen"/>ing on a Nation or Family. By <hi>G. F.</hi> Price 1 d.</item>
+               <item>4. The Devil was and is the Old Informer againſt the Righteous. By <hi>G. F.</hi> Price 1 d.</item>
+               <item>5. An Epiſtle to the Houſhould of the Seed of <hi>Ahraham,</hi> &amp;c. By <hi>G. F.</hi> Price a Half-penny.</item>
+               <item>6. An Epiſtle to all <hi>Chriſtians, Jews</hi> and <hi>Gentiles.</hi> By <hi>G. F.</hi> Price a Half-penny.</item>
+               <item>7. Concerning the Upright and Good Converſation of the Saints in Chriſt and in Heaven. By <hi>G. F.</hi> Price a Half-penny</item>
+               <item>8. A farther Account from ſeveral Letters of the Continuation of the Cruel Perſecution of the People called <hi>Quakers,</hi> without regard to Age or Sex: with Copies of ſeveral Mittimuſſes, by which ſome of them were committed. Price 1 d.</item>
+               <item>9. Something concerning <hi>Agbarus</hi> Prince of the <hi>Aedeſſeans:</hi> alſo <hi>Paul</hi>'s Epiſtle to the <hi>Laodiceans.</hi> Price 1 d.</item>
+               <item>10. A Salutation and ſeaſonable Exhortation to Children. By <hi>D. Dole.</hi> Price 1. d.</item>
+            </list>
+            <pb facs="tcp:96748:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
